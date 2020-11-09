@@ -13,4 +13,4 @@
 ## Assignment 4
 **Goal:** write your own nmt system
 
-**Realization:** originally the skeleton of nmt system kindly provided in the assignment instructions and code files is written in pytorch, though the base is greate, i'm not familiar with pytorch, hence i wrote nmt system in tensorflow from scratch with the same structure as in the original assignment
+**Realization:** originally the skeleton of nmt system kindly provided in the assignment instructions and code files is written in pytorch, though the skeleton is greate, i'm not familiar with pytorch, hence i wrote nmt system in tensorflow from scratch with the same structure as in the original assignment
