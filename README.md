@@ -17,4 +17,5 @@
 
 ## Assignment 5
 **Goal:** nmt system with attention, cnn encoder, highway layer and char based decoder (see https://arxiv.org/pdf/1604.00788.pdf)
+
 **Realization:** same as in assignment 4, written in tensorflow from scratch, all requirements are met, sanity checks and unittests are also included
