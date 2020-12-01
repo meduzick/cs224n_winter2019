@@ -13,4 +13,8 @@
 ## Assignment 4
 **Goal:** write your own nmt system
 
-**Realization:** originally the skeleton of nmt system kindly provided in the assignment instructions and code files is written in pytorch, though the skeleton is greate, i'm not familiar with pytorch, hence i wrote nmt system and corresponding unittests in tensorflow from scratch with the same structure as in the original assignment
+**Realization:** nmt system with Luong-style attention mechanism written in tensorflow from scratch. Sanity checks and unittests are also included
+
+## Assignment 5
+**Goal:** nmt system with attention, cnn encoder, highway layer and char based decoder (see https://arxiv.org/pdf/1604.00788.pdf)
+**Realization:** same as in assignment 4, written in tensorflow from scratch, all requirements are met, sanity checks and unittests are also included
