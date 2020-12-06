@@ -10,6 +10,11 @@
 
 **Realization:** according to the instructions provided in the code files and handout
 
+## Assignment 3
+**Goal:** ner task
+
+**Realization:** the assignment is borrowed from cs224n 2017 (skeleton code and instructions are written in tensorflow)
+
 ## Assignment 4
 **Goal:** write your own nmt system
 
